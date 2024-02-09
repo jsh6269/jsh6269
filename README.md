@@ -1,6 +1,13 @@
-### Hi there 👋
+###  Jang, Suhan
+  SNU CSE 21  
+    
+<a href="https://solved.ac/profile/suhan8984"><img align="center" style="height:173px; width:350px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=suhan8984" /></a>&nbsp;&nbsp;
+<a href="https://github.com/jsh6269"><img align="center" style="height:173px;" src="https://github-readme-stats-jsh6269s-projects.vercel.app/api/top-langs/?username=jsh6269&layout=compact&theme=solarized-light" /></a> 
+
 
 <!--
+![jsh6269's GitHub stats](https://github-readme-stats-jsh6269s-projects.vercel.app/api?username=jsh6269&hide=issues&count_private=true&show_icons=true&rank_icon=github&card_width=10px&theme=ambient_gradient)  
+![jsh6269's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh6269)&hide=stars,contribs&count_private=true&show_icons=true)
 **jsh6269/jsh6269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
