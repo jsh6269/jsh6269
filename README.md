@@ -8,9 +8,6 @@
 <!--
 ![jsh6269's GitHub stats](https://github-readme-stats-jsh6269s-projects.vercel.app/api?username=jsh6269&hide=issues&count_private=true&show_icons=true&rank_icon=github&card_width=10px&theme=ambient_gradient)  
 ![jsh6269's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh6269)&hide=stars,contribs&count_private=true&show_icons=true)
-**jsh6269/jsh6269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
