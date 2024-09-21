@@ -2,7 +2,7 @@
   SNU CSE 21  
     
 <a href="https://solved.ac/profile/suhan8984"><img align="center" style="height:173px; width:350px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=suhan8984" /></a>&nbsp;&nbsp;
-<a href="https://github.com/jsh6269"><img align="center" style="height:173px;" src="https://github-readme-stats-jsh6269s-projects.vercel.app/api/top-langs/?username=jsh6269&layout=compact&theme=solarized-light&hide=Jupyter%20Notebook)" /></a> 
+<a href="https://github.com/jsh6269"><img align="center" style="height:173px;" src="https://github-readme-stats-jsh6269s-projects.vercel.app/api/top-langs/?username=jsh6269&layout=compact&theme=solarized-light&hide=Jupyter%20Notebook" /></a> 
 
 
 <!--
